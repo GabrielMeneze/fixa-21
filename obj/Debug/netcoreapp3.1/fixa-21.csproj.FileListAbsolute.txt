@@ -1,0 +1,13 @@
+C:\Users\gabriel\Documents\GitHub\fixa-21\bin\Debug\netcoreapp3.1\fixa-21.exe
+C:\Users\gabriel\Documents\GitHub\fixa-21\bin\Debug\netcoreapp3.1\fixa-21.deps.json
+C:\Users\gabriel\Documents\GitHub\fixa-21\bin\Debug\netcoreapp3.1\fixa-21.runtimeconfig.json
+C:\Users\gabriel\Documents\GitHub\fixa-21\bin\Debug\netcoreapp3.1\fixa-21.runtimeconfig.dev.json
+C:\Users\gabriel\Documents\GitHub\fixa-21\bin\Debug\netcoreapp3.1\fixa-21.dll
+C:\Users\gabriel\Documents\GitHub\fixa-21\bin\Debug\netcoreapp3.1\fixa-21.pdb
+C:\Users\gabriel\Documents\GitHub\fixa-21\obj\Debug\netcoreapp3.1\fixa-21.csprojAssemblyReference.cache
+C:\Users\gabriel\Documents\GitHub\fixa-21\obj\Debug\netcoreapp3.1\fixa-21.AssemblyInfoInputs.cache
+C:\Users\gabriel\Documents\GitHub\fixa-21\obj\Debug\netcoreapp3.1\fixa-21.AssemblyInfo.cs
+C:\Users\gabriel\Documents\GitHub\fixa-21\obj\Debug\netcoreapp3.1\fixa-21.csproj.CoreCompileInputs.cache
+C:\Users\gabriel\Documents\GitHub\fixa-21\obj\Debug\netcoreapp3.1\fixa-21.dll
+C:\Users\gabriel\Documents\GitHub\fixa-21\obj\Debug\netcoreapp3.1\fixa-21.pdb
+C:\Users\gabriel\Documents\GitHub\fixa-21\obj\Debug\netcoreapp3.1\fixa-21.genruntimeconfig.cache
